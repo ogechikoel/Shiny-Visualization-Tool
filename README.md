@@ -30,3 +30,24 @@ install.packages(c(
   "shiny", "shinydashboard", "shinyWidgets", 
   "readxl", "ggplot2", "officer", "rvg"
 ))
+
+
+## 📤 Exporting Plots
+
+Click the **"Download Word Document"** button to download both the univariate and bivariate plots in a formatted `.docx` file.
+
+---
+
+## 📬 Contact
+
+For support or services, reach out:
+
+📧 [ogechikoel@gmail.com](mailto:ogechikoel@gmail.com)  
+💬 [Chat on WhatsApp](https://wa.me/254757578168?text=Hello%20I%20am%20interested%20in%20your%20services)
+
+**Powered by DataQuest Solutions**
+
+
+
+
+
