@@ -18,6 +18,10 @@ This Shiny app provides an interactive dashboard for visualizing data through un
 - Responsive layout with navigation and a footer for contact
 
 ---
+## 📤 Exporting Plots
+
+Click the **"Download Word Document"** button to download both the univariate and bivariate plots in a formatted `.docx` file.
+---
 
 ## 🛠️ Installation
 
@@ -30,11 +34,6 @@ install.packages(c(
   "shiny", "shinydashboard", "shinyWidgets", 
   "readxl", "ggplot2", "officer", "rvg"
 ))
-
-
-## 📤 Exporting Plots
-
-Click the **"Download Word Document"** button to download both the univariate and bivariate plots in a formatted `.docx` file.
 
 ---
 
