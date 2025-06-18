@@ -3,6 +3,11 @@
 This Shiny app provides an interactive dashboard for visualizing data through univariate and bivariate plots. Users can upload their own datasets (CSV or Excel), create plots, and download them in a Word document format.
 
 ---
+## 🌐 Live Demo
+
+Try the app online: [Basic Charts Dashboard](https://daniel-koel.shinyapps.io/basic-charts-dashboard/)
+
+---
 
 ## 🚀 Features
 
